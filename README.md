@@ -13,6 +13,9 @@ While the first instance of this 91-character date occurs in 8378, I suppose the
 
 *There is secular noise in the length of a day, but it trends downward as the Earth marches toward tidal lock with the Sun, where one hemisphere of the Earth is always facing sunward—much like the Moon's tidal lock with the Earth. One good wobble and 27 Sep 8873 could the longest day ever, in more ways than one—that is, until Thursday, the twenty-eighth of September, year eight thousand eight hundred seventy-tree (which at 89 characters is tied for the third longest length of date string, and tied for 61st place overall among all dates from 1 to 10000 CE).*
 
+## Output CSV
+I have not included the output CSV in this repository because it is nearly 400 MB. If you really need the whole list, you know what to do!
+
 ## Other notes
 ### Year formatting
 I do not use "and" in between the hundreds and tens place. This is most common in the United States. Example: 2125 is "two thousand one hundred twenty-five." That is the best way to write such a number, and I don't care about your opinion on the matter.
